@@ -1,0 +1,11 @@
+{
+    "attribution": "LFUCG GIS", 
+    "description": "", 
+    "center": "-84.4459,38.0402,11", 
+    "bounds": "-84.6675,37.8412,-84.2542,38.2128", 
+    "minzoom": "10", 
+    "version": "1.0.0", 
+    "template": "", 
+    "maxzoom": "16", 
+    "name": "Lexington Parcels"
+}
